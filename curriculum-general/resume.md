@@ -52,4 +52,4 @@
 ## Education
 ### Universidad La Salle Noroeste <time>Aug 2016 – May 2021</time>
 <location> Software Engineer Bachelor Degree | Ciudad Obregón, SON </location>
-- Avg. grade: 97. | Expected Graduation: Q4 2023
+- Avg. grade: 98.7 | Expected Title: Q3 2023

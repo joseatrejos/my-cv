@@ -16,28 +16,32 @@
 
 <hr>
 
-
-
 ## Skills
 
 ### Soft Skills
+
 - Teamwork, self-taught, fast-learner, open-minded, agile/lean/kanban, receptive to constructive feedback, positive attitude even under pressure and capable of talking with clients.
 
 ### Hard Skills
+
 - Project Management, Python, Javascript (Vanilla), Git, HTML/CSS, Bootstrap, Linux, Docker, Bash, MySQL/PostgreSQL, PHP, Adobe Suite.
 
-
 ## Relevant Experience
+
 ### PM, PO, Fullstack Developer, DB Architect<time>Feb 2017 – Present</time>
+
 <location> **Company: Ludens Productions** | Remote | Hermosillo, SON</location>
+
 - We started hiring devs during 2020, so I undertook more of a management role after that year. I started supporting the development as a DB architect, PM, PO, and occasionally, as a frontend developer. Nowadays I'll usually be the developers' mentor in both backend and frontend, as well as in priority management and the organization of the team's workflow.
 - During my startup’s first 2 years we had no personnel (other than my 2 associates), so I acquired experience in the following areas of web development: I negotiated with the clients and acted as a Product Owner, I planned sprints/tasks as a Project Manager, I would design the DB architecture, and I would usually implement the frontend and backend in Laravel as needed.
 
 <br>
 
 ### Project Manager, Frontend dev and DB Architect<time>Jul 2021 – Present</time>
+
 <location> **Company: Media Aérea** | Remote | Ciudad Obregón, SON</location>
-- I’m currently managing governmental projects for mexican customs; I lead 65 employees from different departments, while also taking care of the client and stakeholders. I‘m also part of the requirements’ gathering team and hence constantly create company strategies that'll allow the team to deliver the software in time and with high-quality standards. 
+
+- I’m currently managing governmental projects for mexican customs; I lead 65 employees from different departments, while also taking care of the client and stakeholders. I‘m also part of the requirements’ gathering team and hence constantly create company strategies that'll allow the team to deliver the software in time and with high-quality standards.
 - Configured development and production servers following secure configurations and continuous deployment on said servers for 30+ projects.
 - Researched how to implemented a monitoring service `(Grafana + Loki + Promtail)` to alert developers and SysAdmins on `Discord` about new errors & exceptions triggered on the production environment. This allowed the team to detect more than **12,000 errors upon launch** and thus resolve them ASAP.
 - Created a workflow for handling the monitoring service alerts to resolve them.
@@ -48,7 +52,9 @@
 <br>
 
 ### Project Manager, Frontend dev and DB Architect<time>Jul 2021 – Present</time>
+
 <location> **Company: Electrical Grid Intelligence** | Remote | Ciudad Obregón, SON</location>
+
 - A team of 5 programmers was led to build the MVP of EGI Systems in one month. The system maps electrical structures and detects any repairs that are needed. This software created a profitable business for Media Aérea which still offers this service to electrical companies nowadays, so the project’s maintenance & upgrades lasted for 2 more years after that. My main responsibilities were developing the frontend and DB’s E-R diagram in a week, as well as managing the backend devs.
 - As of March 2023, it has **received 200,000+** image uploads from private customers and **annotated 17,000+ anomalies**.
 
@@ -69,23 +75,27 @@
 <br>-->
 
 ### Fullstack Developer <time>Jan 2020 – Aug 2020</time>
+
 <location> **Company: Pixelbot** | Remote | Toronto, Canada</location>
+
 - Developed a Shopify store with Liquid and optimized a bridge developed with PHP. This allowed the client, PackageEverything, to synchronize its products’ inventory on their inner legacy system with their new Shopify store. This reduced their operative workload and at the same time expanded their market reach into the web, which represented 25% of their sales. The bridge’s execution time was optimized 83% since it was reduced from 5 minutes to 50 seconds
 
 <br>
 
 ### Intern Frontend Developer <time>Nov 2018 – Oct 2019</time>
+
 <location> **Company: Novutek** | Remote | Ciudad Obregón, SON</location>
+
 - The company’s induction process was automated as a website. This reduced 40% of HR department’s tasks during the new employees' training process.
 
 <br>
 
-
-
 ## Education
 
 ### Universidad La Salle Noroeste <time>Aug 2016 – May 2021</time>
+
 <location> Software Engineer Bachelor Degree | Ciudad Obregón, SON </location>
+
 - **Avg. grade: 98.7** | Expected Title: Q4 2023
 - This career involved a multidisciplinary approach that made me be able to carry out digital productions with interdisciplinary teams. I was mainly trained in: UI/UX design, 2D design and animation, web development, mobile app development, project management, video game development, agile methodologies in software engineering, as well as the 3D production process.
 - Participated in Iluminare for 4 years, which is a program consisting in a group of students that teaches basic education to kids living in high-risk urban areas.

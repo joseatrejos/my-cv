@@ -64,6 +64,10 @@ li {
     width: 15px;
 }
 
+.info strong {
+    font-size: 18px;
+}
+
 /* assume images are icons */
 /* icons for contact info */
 .info a img {

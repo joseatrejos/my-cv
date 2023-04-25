@@ -32,9 +32,9 @@
 - I’m currently managing governmental projects for mexican customs; I lead 65 employees from different departments, while also taking care of the client and stakeholders. I‘m also part of the requirements’ gathering team and hence constantly create company strategies that'll allow the team to deliver the software in time and with high-quality standards.
 - Researched how to implement a monitoring service `(Grafana + Loki + Promtail)` to alert developers and SysAdmins on `Discord` about new errors & exceptions triggered on the production environment. This allowed the team to detect more than **12,000 errors upon launch** and thus resolve them ASAP.
 - Mentored new team members, providing support and feedback on the technologies used on the enterprise including `Python`, `Docker`, `Git`, `Kanban`, `Communication`, `JS`, `Bootstrap` & `QA/testing`.
-- Satisfying the whole country’s customs’ needs has been my toughest challenge up until now since I’ve had to fill out 58 positions across 36 software projects in the last year. All of this while being understaffed and pressured with short very short delivery timelines across the 36 software projects that we delivered in a year.
-- For the duration of these contracts, I've had to act as a backend dev in 8 projects, as frontend dev in 10 projects, as a Manual QA in 4 projects, as a Product Owner in 4 projects, as Project Manager in 12 projects, and as the Supervisor in 20 projects.
-- We started hiring devs during 2020, so I undertook more of a management role after that year. I started supporting the development as a DB architect, PM, PO, and occasionally, as a frontend developer. Nowadays I'll usually be the developers' mentor in both backend and frontend, as well as in priority management and the organization of the team's workflow.
+- Satisfying the whole country’s customs’ needs has been my toughest challenge up until now since I’ve had to fill out 58 positions across 38 software projects in the last year. All of this while being understaffed and pressured with short very short delivery timelines across the 38 software projects that we delivered in a year.
+- For the duration of these contracts, I've had to act as a backend dev in 8 projects, as frontend dev in 12 projects, as a Manual QA in 4 projects, as a Product Owner in 4 projects, as Project Manager in 12 projects, and as the Supervisor in 20 projects.
+- We started hiring devs during 2020, so I undertook more of a management role after that year. I started supporting the development as a DB architect, PM, PO, and occasionally, as a frontend developer. Nowadays I'll usually be the developers' mentor, as well as their lead in priority management and the organization of the team's workflow.
 - During my startup’s first 2 years we had no personnel (other than my 2 associates), so I acquired experience in the following areas of web development: I negotiated with the clients and acted as a Product Owner, I planned sprints/tasks as a Project Manager, I would design the DB architecture, and I would usually implement the frontend and backend in Laravel as needed.
 
 <br>
@@ -64,7 +64,7 @@
 
 ### Fullstack Developer <time>Jan 2020 – Sept 2020</time>
 <location> **Company: Pixelbot** | Remote | Toronto, Canada</location>
-- Developed a Shopify store with Liquid and optimized a bridge developed with PHP. This allowed the client, PackageEverything, to synchronize its products’ inventory from their inner legacy system with their new Shopify store. This reduced their operative workload and at the same time expanded their market reach into the web, which represented 25% of their sales. The bridge’s execution time was optimized 83% since it was reduced from 5 minutes to 50 seconds.
+- Developed a *Shopify* store with *Liquid* and optimized a bridge developed with PHP. This allowed the client, PackageEverything, to synchronize its products’ inventory from their inner legacy system with their new Shopify store. This reduced their operative workload and at the same time expanded their market reach into the web, which represented 25% of their sales. The bridge’s execution time was optimized 83% since it was reduced from 5 minutes to 50 seconds.
 
 <br>
 

@@ -63,7 +63,7 @@
 
 <location> **Empresa: Novutek** | Remoto | Ciudad Obregón, SON</location>
 
-- El proceso de inducción de la empresa se automatizó como un sitio web. Esto redujo el 40% de las tareas del departamento de Recursos Humanos durante el proceso de capacitación de los nuevos empleados.
+- El proceso de inducción de la empresa se automatizó en un sitio web. Esto redujo el 40% de las tareas del departamento de Recursos Humanos durante el proceso de capacitación de los nuevos empleados.
 
 <br>
 
